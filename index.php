@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Elementor Boilerplate
- * Description: Custom Elementor extension for building upon
+ * Description: Custom Elementor extension
  * Plugin URI:  https://Pheriche.com/
  * Version:     1.0.0
  * Author:      Pheriche
